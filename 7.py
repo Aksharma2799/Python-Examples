@@ -1,5 +1,5 @@
 '''Program to find Temp in Farenheit
-Developer:Aakash
+Developer:Aakash @ Ashish
 Date:21.02.2020
 --------------------------------'''
 c=int(input("Enter the value in Celsius="))
